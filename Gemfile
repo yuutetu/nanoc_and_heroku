@@ -1,3 +1,3 @@
 source :rubygems
 gem "rack"
-gem "rack-try_static"
+gem 'rack-contrib'
